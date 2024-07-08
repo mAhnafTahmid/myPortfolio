@@ -18,7 +18,7 @@ const Home = () => {
           likes to improve the User Experience as much as possible.
         </p>
         <div>
-          <Link to="work" smooth={true} duration={700}>
+          <Link to="work" smooth={true} duration={900}>
             <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600 -z-10">
               View Work
               <span className="group-hover:rotate-90 duration-300 group-hover:-translate-y-[0.375rem] relative transition-transform">
