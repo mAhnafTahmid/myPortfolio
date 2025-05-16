@@ -5,6 +5,10 @@ import Node from "../assets/node.png";
 import GitHub from "../assets/github.png";
 import Tailwind from "../assets/tailwind.png";
 import Mongo from "../assets/mongo.png";
+import Python from "../assets/python.png";
+import CSharp from "../assets/csharp.webp";
+import MySql from "../assets/mysql.png";
+import Express from "../assets/expressjs.png";
 
 const Skills = () => {
   return (
@@ -44,6 +48,26 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Mongo} alt="MONGO icon" />
             <p>MONGO DB</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={Python} alt="PYTHON icon" />
+            <p>PYTHON</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img
+              className="w-20 h-[5rem] mx-auto"
+              src={MySql}
+              alt="MYSQL icon"
+            />
+            <p>MYSQL</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={CSharp} alt="CSHARP icon" />
+            <p>C#</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={Express} alt="EXPRESSJS icon" />
+            <p>EXPRESS JS</p>
           </div>
         </div>
       </div>

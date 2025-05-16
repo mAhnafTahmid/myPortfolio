@@ -20,10 +20,11 @@ const About = () => {
           <div>
             <p>
               I am passionate about building excellent websites that help
-              people. I am skilled in creating websites using popular
-              technologies such as the MERN stack and Tailwind CSS. I am also
-              always open to learning new things. Wouldn't it be awesome to have
-              an enthusiastic developer by your side?
+              people. I am skilled at creating websites using popular
+              technologies such as the MERN stack, Tailwind CSS and Dotnet Core.
+              I am also always open to learning new things and can adapt to new
+              things! Wouldn't it be awesome to have an enthusiastic developer
+              by your side?
             </p>
           </div>
         </div>

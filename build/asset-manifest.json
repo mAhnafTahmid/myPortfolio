@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.f19a653b.css",
-    "main.js": "/static/js/main.75747957.js",
+    "main.css": "/static/css/main.a5513c52.css",
+    "main.js": "/static/js/main.0fb0e181.js",
     "static/media/chatApp.png": "/static/media/chatApp.a4680fe8b8160e0c7a6b.png",
     "static/media/medicalPlatform.png": "/static/media/medicalPlatform.0c69a0d561f5b0958442.png",
-    "static/media/apiProvider.png": "/static/media/apiProvider.45aff6d08601ebca288b.png",
+    "static/media/FormService.png": "/static/media/FormService.6a49fd3f089daef3f31b.png",
+    "static/media/mysql.png": "/static/media/mysql.0fa9a5734e3c34ad8218.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/python.png": "/static/media/python.3773b61d7de3dd14e7ef.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/expressjs.png": "/static/media/expressjs.7a2e473de9afcf0e2fef.png",
     "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/csharp.webp": "/static/media/csharp.4d69ecbeb14a375ace07.webp",
     "index.html": "/index.html",
-    "main.f19a653b.css.map": "/static/css/main.f19a653b.css.map",
-    "main.75747957.js.map": "/static/js/main.75747957.js.map"
+    "main.a5513c52.css.map": "/static/css/main.a5513c52.css.map",
+    "main.0fb0e181.js.map": "/static/js/main.0fb0e181.js.map"
   },
   "entrypoints": [
-    "static/css/main.f19a653b.css",
-    "static/js/main.75747957.js"
+    "static/css/main.a5513c52.css",
+    "static/js/main.0fb0e181.js"
   ]
 }

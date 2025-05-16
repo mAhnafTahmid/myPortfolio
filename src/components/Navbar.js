@@ -43,6 +43,11 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
+          <Link to="projects" smooth={true} duration={700}>
+            Projects
+          </Link>
+        </li>
+        <li>
           <Link to="contact" smooth={true} duration={700}>
             Contact
           </Link>
@@ -83,6 +88,16 @@ const Navbar = () => {
           </Link>
         </li>
         <li className="py-6 text-4xl">
+          <Link
+            onClick={handleClick}
+            to="projects"
+            smooth={true}
+            duration={700}
+          >
+            Projects
+          </Link>
+        </li>
+        <li className="py-6 text-4xl">
           <Link onClick={handleClick} to="contact" smooth={true} duration={700}>
             Contact
           </Link>
@@ -94,7 +109,7 @@ const Navbar = () => {
         <ul>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-blue-600">
             <a
-              href="https://www.linkedin.com/in/ahnaf-tahmid-897b22311/"
+              href="http://www.linkedin.com/in/ahnaf-tahmid-631552335"
               target="_blank"
               className="flex justify-between items-center w-full text-gray-300"
               rel="noreferrer"
@@ -114,7 +129,7 @@ const Navbar = () => {
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-red-500">
             <a
-              href="mailto:aryan.ahnaf@gmail.com"
+              href="mailto:ahnaf.tahmid0628@gmail.com"
               className="flex justify-between items-center w-full text-gray-300"
             >
               Email <HiOutlineMail size={30} />
@@ -122,7 +137,7 @@ const Navbar = () => {
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-[#565f69]">
             <a
-              href="https://docs.google.com/document/d/1TZ7XvavUQ4Ic4iXOlE1ikKMr4zyllUZa-6xbzfG7OFE/edit?usp=sharing"
+              href="https://docs.google.com/document/d/16yQa48HHzY7_GJzRBvaY82bdmMoDb-6b/edit?usp=sharing&ouid=106293461552502354272&rtpof=true&sd=true"
               target="_blank"
               className="flex justify-between items-center w-full text-gray-300"
               rel="noreferrer"
